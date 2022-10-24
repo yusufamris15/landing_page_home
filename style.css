@@ -1,12 +1,17 @@
 * {
-    font-family: 'Montserrat', sans-serif;
-  }
-  
-  body {
-    background-color: #f7f9fd;
-  }
-  
-  h5 {
-    color: white;
-  }
-  
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #f7f9fd;
+}
+
+h5 {
+  color: white;
+}
+
+/* #test1 {
+    background-image: url(/assets/home_page.png);
+    background-position: center;
+    background-size: 100%;
+} */
